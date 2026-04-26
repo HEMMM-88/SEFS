@@ -610,3 +610,7 @@ Potential improvements for future versions:
 ---
 
 **Ready to experience the future of file organization? Get started now!** 🎉
+
+---
+
+*Forked and maintained by [HEMMM-88](https://github.com/HEMMM-88)*
